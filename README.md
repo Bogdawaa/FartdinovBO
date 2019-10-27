@@ -1,3 +1,3 @@
 # IDM1903_web
-group 1903, for web projects
-Fartdinov Bogdan
+group 19-03, for web projects
+#Fartdinov Bogdan
